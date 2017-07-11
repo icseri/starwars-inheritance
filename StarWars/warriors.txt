@@ -1,0 +1,11 @@
+%Obi_Wan_Kenobi#5
+%Mace_Windu#6
+%Darth_Maul#6
+%Han_Solo#4
+%Jabba#4
+%Darth_Vader#7
+%Jar_Jar#1
+%Yoda#9
+%Luke_Skywalker#5
+%Darth_Sidius#9
+%Boba_Fett#4

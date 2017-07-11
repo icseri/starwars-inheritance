@@ -1,0 +1,11 @@
+%Obi_Wan_Kenobi#5/C!True
+%Mace_Windu#6/Q!True
+%Darth_Maul#6/9!True
+%Han_Solo#4/Z
+%Jabba#4/2!False
+%Darth_Vader#7/6!True
+%Jar_Jar#1/U!False
+%Yoda#9/W!True
+%Luke_Skywalker#5/B!True
+%Darth_Sidius#9/3!True
+%Boba_Fett#4/0
