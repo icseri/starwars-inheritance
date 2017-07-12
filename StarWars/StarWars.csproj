@@ -43,7 +43,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BattleSimulator.cs" />
+    <Compile Include="DarthMaul.cs" />
+    <Compile Include="DarthVader.cs" />
     <Compile Include="FileHandler.cs" />
+    <Compile Include="MaceWindu.cs" />
+    <Compile Include="ObiVan.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Side.cs" />
