@@ -50,15 +50,16 @@
     <Compile Include="ForceUser.cs" />
     <Compile Include="Sith.cs" />
     <Compile Include="Warrior.cs" />
+    <Compile Include="Warriors\DarthVader.cs" />
     <Compile Include="Warriors\JarJar.cs" />
     <Compile Include="Jedi.cs" />
+    <Compile Include="Warriors\Luke Skywalker.cs" />
+    <Compile Include="Warriors\minta.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="warriors.txt" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Warriors\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

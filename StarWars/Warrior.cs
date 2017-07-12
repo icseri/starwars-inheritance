@@ -21,10 +21,16 @@ namespace StarWars
                 //TODO további warrior példányosítások itt.
                 case "Jar Jar":
                     return new JarJar(power);
+
+                case "DarthVader":
+                    return new DarthVader(power);
+                case "Luke Skywalker":
+                    return new Luke_Skywalker(power);
+
+
             }
             return null;
-        }
-
+               }
         public int Power { get; protected set; }
         public virtual string Name { get; }
         public virtual bool IsLightSide { get; }

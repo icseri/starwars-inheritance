@@ -37,7 +37,7 @@ namespace StarWars.Warriors
             foreach (var w in simulator.DarkSide.Warriors)
                 if (w is Sith)
                     return;
-            Morale = AvgPower();
+            simulator.LightSide.Morale += 3; 
         }
     }
 }
